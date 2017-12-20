@@ -1,0 +1,14 @@
+User Name :shoukatmalik96
+Password :shoukat123
+Email :shoukarbahrimalik@gmail.com
+-------------------------------------------
+echo "# C_program" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Shoukatmalik96/C_program.git
+git push -u origin master
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/Shoukatmalik96/C_program.git
+git push -u origin master
